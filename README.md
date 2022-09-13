@@ -5,14 +5,13 @@
 ### My social networks:
 
 <a href="https://linkedin.com/in/andrevitalb/" target="_blank">
-    <img alt="Fonseca | LinkedIn" width="25px" src="https://seeklogo.com/images/L/linkedin-black-icon-logo-ECC426C572-seeklogo.com.png">
+    <img alt="Fonseca | LinkedIn" width="25px" src="https://seeklogo.com/images/L/linkedin-in-icon-logo-2E34704F04-seeklogo.com.png">
 </a>
 &nbsp;&nbsp;
 <a href="https://instagram.com/im_andrevital" target="_blank">
     <img alt="Fonseca | Instagram" width="25px" src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png">
 </a>
 
-<br/>
 <br/>
 
 ### Languages & tools:
