@@ -2,10 +2,10 @@
     <h1>Hi there, I'm <a href="#" target="_blank">Gabriel</a></h1>
 </p>
 
-### my social networks:
+### My social networks:
 
 <a href="https://linkedin.com/in/andrevitalb/" target="_blank">
-    <img alt="Fonseca | LinkedIn" width="25px" src="https://seeklogo.com/images/L/linkedin-new-2020-logo-E14A5D55ED-seeklogo.com.png">
+    <img alt="Fonseca | LinkedIn" width="25px" src="https://seeklogo.com/images/L/linkedin-black-icon-logo-ECC426C572-seeklogo.com.png">
 </a>
 &nbsp;&nbsp;
 <a href="https://instagram.com/im_andrevital" target="_blank">
@@ -17,7 +17,7 @@
 
 ---
 
-### My main languages & tools:
+### Languages & tools:
 
 [<img alt="React" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](#)
 &nbsp;&nbsp;
