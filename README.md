@@ -12,6 +12,8 @@
     <img alt="Fonseca | Instagram" width="25px" src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png">
 </a>
 
+<img src="https://i.imgur.com/WL3Ymem.png" style="width: 200px; float right;"/>
+
 <br/>
 
 ### Languages & tools:
