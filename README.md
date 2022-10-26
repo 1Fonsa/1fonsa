@@ -28,7 +28,9 @@
 &nbsp;&nbsp;
 [<img alt="HTML5" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](#)
 &nbsp;&nbsp;
-[<img alt="CSS3" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](#)
+[<img alt="PHP" width="28px" src="https://seeklogo.com/images/P/PHP-logo-0B2FDC4529-seeklogo.com.png" />](#)
+&nbsp;&nbsp;
+[<img alt="ELECTRON" width="28px" src="https://seeklogo.com/images/E/electron-software-logo-C231A437EA-seeklogo.com.png" />](#)
 &nbsp;&nbsp;
 [<img alt="C++" width="28px" src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png" />](#)
 &nbsp;&nbsp;
