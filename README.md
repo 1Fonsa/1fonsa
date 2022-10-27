@@ -2,35 +2,20 @@
     <h1>Hi there, I'm <a href="#" target="_blank">Gabriel</a></h1>
 </p>
 
-### My social networks:
+<img align='left' alt='Portfolio' src='https://img.shields.io/badge/Fonseca-7D00FF?style=for-the-badge&logo=Stellar&logoColor=white'/>
+<img align='left' alt='Instagram' src='https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white'/>
+<img alt='Linkedin' src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'/>
 
-<a href="https://linkedin.com/in/andrevitalb/" target="_blank">
-    <img alt="Fonseca | LinkedIn" width="25px" src="https://seeklogo.com/images/L/linkedin-in-icon-logo-2E34704F04-seeklogo.com.png">
-</a>
-&nbsp;&nbsp;
-<a href="https://instagram.com/im_andrevital" target="_blank">
-    <img alt="Fonseca | Instagram" width="25px" src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png">
-</a>
+<img width='48%' src="https://github-readme-streak-stats.herokuapp.com/?user=1fonsa&theme=tokyonight" alt="mystreak"/>
 
-<img src="https://i.imgur.com/WL3Ymem.png" style="width: 280px; position: absolute; right: 10px; top: 130px;"/>
+## Languages and tools that I have used in my daily life
+<img align='left' alt='React' src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB'/>
+<img align='left' alt='JS' src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E'/>
+<img align='left' alt='Node JS' src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white'/>
+<img align='left' alt='C++' src='https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white'/>
+<img alt='PHP' src='https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white'/>
 
-<br/>
+> Let's advance to a new era!
+&nbsp;&nbsp;
 
-### Languages & tools:
-
-[<img alt="React" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](#)
-&nbsp;&nbsp;
-[<img alt="NodeJS" width="28px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">](#)
-&nbsp;&nbsp;
-[<img alt="JavaScript" width="28px" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" />](#)
-&nbsp;&nbsp;
-[<img alt="TypeScript" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />](#)
-&nbsp;&nbsp;
-[<img alt="HTML5" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](#)
-&nbsp;&nbsp;
-[<img alt="PHP" width="32px" src="https://seeklogo.com/images/P/PHP-logo-0B2FDC4529-seeklogo.com.png" />](#)
-&nbsp;&nbsp;
-[<img alt="ELECTRON" width="32px" src="https://seeklogo.com/images/E/electron-software-logo-C231A437EA-seeklogo.com.png" />](#)
-&nbsp;&nbsp;
-[<img alt="C++" width="28px" src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png" />](#)
-&nbsp;&nbsp;
+![Contribution](https://activity-graph.herokuapp.com/graph?username=1fonsa&theme=react-dark&hide_border=true&area=true)
