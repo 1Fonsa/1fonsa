@@ -17,5 +17,3 @@
 
 > Let's advance to a new era!
 &nbsp;&nbsp;
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=1fonsa&theme=react-dark&hide_border=true&area=true)
