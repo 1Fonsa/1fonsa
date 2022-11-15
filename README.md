@@ -6,7 +6,7 @@
 <img align='left' alt='Instagram' src='https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white'/>
 <img alt='Linkedin' src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'/>
 
-<img width='48%' src="https://github-readme-streak-stats.herokuapp.com/?user=1fonsa&theme=tokyonight" alt="mystreak"/>
+<img width='48%' src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel-roux&theme=tokyonight" alt="mystreak"/>
 
 ## Languages and tools that I have used in my daily life
 <img align='left' alt='React' src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB'/>
